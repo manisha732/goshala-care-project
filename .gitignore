@@ -1,0 +1,11 @@
+# Windows thumbnail caches
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Office temporary files
+~$*
+
+# System files
+Desktop.ini
+.DS_Store
